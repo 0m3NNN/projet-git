@@ -1,2 +1,3 @@
 # projet-git et github
-participant Riad Sadki
+participant : Riad Sadki
+Participant : Megder Al Hassan
